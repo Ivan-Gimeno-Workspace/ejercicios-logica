@@ -1,16 +1,17 @@
 # ejercicios-logica
 Resolución de problemas y ejercicios de lógica de programación
 
-Ejercicio 1: El reto de las cajas cambiadas
+Ejercicio 2: El Filtro de la Discoteca
 
 Enunciado:
+Crea un programa que pida al usuario su edad.
 
-Imagina que tienes dos cajas sobre la mesa:
+Si la edad es mayor o igual a 18 años, el programa debe mostrar el mensaje: ¡Bienvenido al club! Puedes pasar.
 
-En la Caja A hay un Balón de Fútbol.
+Si la edad es menor de 18 años, el programa debe mostrar el mensaje: Lo siento, eres menor de edad. No puedes entrar.
 
-En la Caja B hay un Balón de Baloncesto.
+Notas:
 
-Objetivo: Conseguir que el Balón de Fútbol termine en la Caja B y el de Baloncesto en la Caja A sin meter dos balones a la vez en una caja y sin tirarlos al suelo.
+Usa una variable para guardar la edad.
 
-La solución detallada paso a paso se encuentra en el archivo ejercicio1.txt.
+Usa una estructura if / else para tomar la decisión.

@@ -1,0 +1,4 @@
+Paso 1: traigo una Caja C vacía
+Paso 2: paso el balón de la Caja A a la Caja C (Ahora la Caja A queda vacía)
+Paso 3: paso el balón de la Caja B a la Caja A
+Paso 4: paso el balón de la Caja C a la Caja B
