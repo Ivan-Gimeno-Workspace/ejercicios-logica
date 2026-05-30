@@ -1,17 +1,18 @@
 # ejercicios-logica
-Resolución de problemas y ejercicios de lógica de programación
+# Mis Ejercicios de Lógica en JavaScript 🚀
 
-Ejercicio 2: El Filtro de la Discoteca
+Este repositorio contiene mis soluciones a diferentes retos de programación para dominar JavaScript y entender el uso de condicionales y operadores lógicos.
 
-Enunciado:
-Crea un programa que pida al usuario su edad.
+---
 
-Si la edad es mayor o igual a 18 años, el programa debe mostrar el mensaje: ¡Bienvenido al club! Puedes pasar.
+## 🕶️ Ejercicio 1: Filtro de Discoteca con pase VIP
+El sistema evalúa si una persona puede entrar a un club nocturno dependiendo de su edad o de si se encuentra en la lista de invitados especiales.
+- **Regla:** Entra si tiene 18 años o más, O si su variable `esVip` es verdadera (`true`).
 
-Si la edad es menor de 18 años, el programa debe mostrar el mensaje: Lo siento, eres menor de edad. No puedes entrar.
+---
 
-Notas:
-
-Usa una variable para guardar la edad.
-
-Usa una estructura if / else para tomar la decisión.
+## 🛒 Ejercicio 2: Filtro de Gastos de Envío
+El sistema calcula si un cliente tiene que pagar gastos de envío en una tienda online según su tipo de cuenta o el importe total.
+- **Regla 1:** Envío GRATIS si la compra es de **60€ o más**.
+- **Regla 2:** Envío GRATIS si el usuario es **Premium**, gaste lo que gaste.
+- **Regla 3:** En cualquier otro caso, el envío cuesta **4.95€**.
